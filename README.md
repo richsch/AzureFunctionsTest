@@ -75,5 +75,3 @@ Function Runtime Version: 2.0.12134.0
 [2018/10/20 13:07:24]
 Hosting environment: Production
 ```
-
-Checking 
